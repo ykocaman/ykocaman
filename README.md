@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykocaman&layout=compact&langs_count=8&hide=html,javascript,c%23,c%2b%2b,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=ykocaman&layout=compact&langs_count=8&hide=html,javascript,c%23,c%2b%2b,css)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ykocaman/)](https://www.linkedin.com/in/ykocaman/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ykocaman)](https://medium.com/@ykocaman) [![GitHub Follow Badge](https://img.shields.io/github/followers/ykocaman?label=follow&style=social)](https://github.com/ykocaman)
+
 <!--
 **ykocaman/ykocaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

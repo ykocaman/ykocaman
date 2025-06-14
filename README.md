@@ -2,6 +2,7 @@
 --- 
 
 📩 Get in touch: [LinkedIn](https://linkedin.com/in/ykocaman) or send an email to github@ykocaman.dev
+✍️ Follow my blog posts on [Medium](https://medium.com/@ykocaman)
 
 ### 🧩 Areas of Focus
 

@@ -6,12 +6,13 @@
 
 ### 🧩 Areas of Focus
 
-- 👨‍💻 **Software Development**: Tooling, UI, APIs, extensions, and some missing features of apps
-- 🔁 **CI/CD**: GitLab CI, GitHub Actions, ArgoCD
-- 📦 **Containers**: Kubernetes, Docker, Podman, BuildKit
-- ☁️ **Cloud Platforms**: AWS, GCP, Azure
-- 🔐 **Security & Compliance**: Secrets management, policies, automated audits
-- 📊 **Monitoring & Observability**: Prometheus, Grafana, Loki, ELK, OpenTelemetry
+- 👨‍💻 **Development**: Tools, APIs, UI, extensions, and some missing features of apps  
+- 🔁 **CI/CD**: GitLab CI, GitHub Actions, ArgoCD  
+- 📦 **Containers**: Kubernetes, Docker, Podman, BuildKit  
+-  ☁️ **Cloud Platforms**: AWS, Azure, GCP, On Premises  
+- 🛠️ **Infrastructure as Code**: Terraform, Ansible, Helm  
+- 🔐 **Security & Compliance**: Secrets management, policies, automated audits  
+- 📊 **Monitoring & Observability**: Prometheus, Grafana, ELK
 
 ---
 

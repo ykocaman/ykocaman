@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yusuf — DevOps Consultant & Software Engineer</h1
 --- 
 
-📩 Get in touch: [LinkedIn](https://linkedin.com/in/ykocaman) or send an email to github@ykocaman.dev
-✍️ Follow my blog posts on [Medium](https://medium.com/@ykocaman)
+📩 Get in touch: [LinkedIn](https://linkedin.com/in/ykocaman) or send an email to github@ykocaman.dev  
+🔗 Check out my [blog](https://medium.com/@ykocaman) or [website](https://ykocaman.dev)
 
 ### 🧩 Areas of Focus
 
